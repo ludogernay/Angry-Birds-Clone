@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Piggies : MonoBehaviour
 {
-    [SerializeField] private GameObject gameobject;
+    [SerializeField] PiggiesSo _piggiesSo;
     void OnCollisionEnter2D(Collision2D other) {
         if ( other.relativeVelocity.magnitude > 1) {
-            Destroy(gameobject);
+            Destroy(gameObject);
         }
     }
 }
