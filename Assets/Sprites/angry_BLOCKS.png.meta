@@ -1,0 +1,6947 @@
+fileFormatVersion: 2
+guid: 8d1e8944d90d2d34c8677a32986ae260
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angry_BLOCKS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 84
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fa06870788a8748ac5bf290c7a56a8
+      internalID: 107531676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 917
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa05c868ad71ca46976a0038c7f94d0
+      internalID: 686733214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 917
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455905289bdffd0488c15b94e1f8d156
+      internalID: 931975427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 917
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3607f7798957de1438d0f975213229ba
+      internalID: -30867646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 917
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803b075ec7e2111468acfafde667fb60
+      internalID: 1790940660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_5
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 917
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5f52f043f96f74cb9e462ce181f1bd
+      internalID: -278156374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_6
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 957
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e620973fa96ed40a6abb6815ca2e43
+      internalID: 546950350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_7
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 980
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981959df8be56a84abc07edeedb56789
+      internalID: 1393043305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_8
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 958
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b5436a915d9d7499fb9948bd872d4c
+      internalID: 652078198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_9
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 918
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f026a6abce73b4686cae536d3d3f3d
+      internalID: 1735840394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_10
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 934
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f96e43d4bd83cc41b059bc73c633e50
+      internalID: -1840284035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 833
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cdaaa7fb05b01489ea10ee94ff9ff2
+      internalID: -1633047735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 835
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdca1bd8a53b4f42b5a7f027bdd9ec6
+      internalID: 1214449136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 835
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe71e5d2029ce74a9879dafb9d456c8
+      internalID: 1214327438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_14
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 836
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cc1ef71089e3c439fe7c86e63a004f
+      internalID: 1780556776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 841
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f6484d87fdbc44b561ed6503e6ced
+      internalID: -513501318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 841
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368bb7e440a14434cad30a9689618829
+      internalID: 2059707415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_17
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 841
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa66ade9ac7c7444b1a179e11585741
+      internalID: 336683375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_18
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 841
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a36defa9969d344b075712d1ccc193
+      internalID: 1102112739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_19
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 841
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708a338633f697244bb8673ae4cf41df
+      internalID: 426963714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 841
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de220f0abb73354ba1e1ce36c230c8e
+      internalID: -590454917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_21
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 841
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557cc46499cf00846a36d724f43040f9
+      internalID: -555739911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_22
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 841
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aae05648bfef87488a9166d5befff22
+      internalID: -296622395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_23
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 873
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e6bf9e60edb4746b1bfa61f7eec999
+      internalID: 1866463779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_24
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 851
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb517bc942fcf41a9308f49f7fb88e
+      internalID: -2034292381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 749
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c102733cdc7024c8aeb05b47bd7549
+      internalID: 1351780745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 759
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a2743957c05949af2d9ab06d6d7fb
+      internalID: -766980540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 760
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55ca81647615774bb7d2d3ecfdb9755
+      internalID: -1926743210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 760
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535c2c9da8fa6542994225bb362d23e
+      internalID: -1393240396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 760
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa89c6f608c510458e378d412bac3ba
+      internalID: -318711999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_30
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 760
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e5c0eed94649d43ac2cfc06055da46
+      internalID: 411534692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 760
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1048c1815c808444eb59ee9c1d3d6963
+      internalID: -2143631153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_32
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 761
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0f6ec9cf1368439b83820f371c6c3
+      internalID: -466706216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_33
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 761
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73588765915cf448a9c5d4b9535dc7f
+      internalID: -1685106341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_34
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 761
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcdb63bc45194f4588d0af6f06676f2
+      internalID: -507798813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_35
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 761
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bfa95ecde0eed4586267533b5d2abb
+      internalID: 1584230890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_36
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 761
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50919b01f675ec34a974d0ab176d557e
+      internalID: -295439699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_37
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 791
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fb76af05a31d04a8426fdb6de56d03
+      internalID: -356981436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_38
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 814
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42ee4f60b42914ca925e773b7266f9
+      internalID: -1782861128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_39
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 792
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3177491cfe01efa4188312b715fb2db1
+      internalID: 2107025460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_40
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 769
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110d2c99098064e44b8448b57bc3c4f3
+      internalID: 1252556686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_41
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 769
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff7ea93d74e76b4ea8ded0e8d6e8c7e
+      internalID: -691764730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aca4a438d4c334d945bca2e96d75b6
+      internalID: 1735546639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 667
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2657c66b9ee742840a74a192bc6a11d1
+      internalID: 1132683168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 682
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ba64ce178eaa546b004960213e666a
+      internalID: 788651256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_45
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 685
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2c5f0f57916e4eb279266d41b047a
+      internalID: 1422431184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 715
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ecf72a4f037244b955f630b0557164
+      internalID: -900600586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_47
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 714
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7756127204a592478abcc88773ec284
+      internalID: -1225572992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_48
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 715
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970da2794e2a0d7458e1b199adfcbe85
+      internalID: -1149524622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 717
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cd1a573405d6e41bd9a1883c2cb4a9
+      internalID: -1651842373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_50
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 717
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ef30002211fe4489c08f6df9a30cf0
+      internalID: 1798426526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_51
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 717
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ffff8b2bf3cc47af9a4bd1b314ef8
+      internalID: 149010233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_52
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 717
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf3bce9cabed5a4c9d47796fb44b8d5
+      internalID: -1854007126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_53
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 717
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0241084a190e449f4b0c3caf50043
+      internalID: -569723557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_54
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 717
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd956fc62355d864e805a4d3a7069e3f
+      internalID: -1700177646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_55
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 717
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6011a4fa41c9cb43845d1a0f08c70f2
+      internalID: 1601574806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_56
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 738
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59f1241e3360eb47ae19c55a015f49b
+      internalID: -933192440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_57
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 716
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bd7947a40ca2a4ea404861c0e99e68
+      internalID: -190823038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 672
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50900a20df0154788f50a53b465993
+      internalID: -1658331957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 672
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed776a4a4b47e6d458adade72aeab116
+      internalID: 108459937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_60
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 672
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cd8a5075d1c634b893331621c0f0fe
+      internalID: 1471103606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_61
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 672
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41189e2f469cdd4e8aad7330b3893ae
+      internalID: 1962645269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_62
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 672
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d037f0671e25f74596d0e5da0f1a2ab
+      internalID: 1947224244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_63
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 672
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad204a5a4a34c64fbc7b2f285fa59e5
+      internalID: -555865161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_64
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 672
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7612081e39c3690458d816d70a9917ea
+      internalID: 989165577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_65
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 672
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57483bdf11ebe6f488fc6423ca1bebb1
+      internalID: 1971232996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_66
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 672
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e4f17b647efe4dab6b618b3ccef76
+      internalID: -580170163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_67
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 693
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec0a1ded7c1c4e499c9191c2384dcf9
+      internalID: 573777259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3582d4dabdad48f4fa34acfc00a60bf3
+      internalID: -288367817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_69
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 585
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c09946bd24c7c43b6aa640532e60cf
+      internalID: 944886036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 605
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356b6d60f1fe52f45a968724da85a7bb
+      internalID: -423414428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_71
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 609
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3795598a23c71a64bacb24c13ccc6549
+      internalID: 1025947201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_72
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 629
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306e64133c4998f449fa38818ce32038
+      internalID: 367168072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_73
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 629
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a53496d3c565b47bdf86dcb969e936
+      internalID: 991576072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_74
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 629
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43914fbca34c642489fc320c0ea171e4
+      internalID: 93828326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_75
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 629
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4b51edfef1e834abe313382db88a5c
+      internalID: -1433958611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_76
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 629
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d41f9e6704522459c752e1d035d267
+      internalID: 1978280530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_77
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 629
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07ce16856a4acc4eba61ed03fec1298
+      internalID: 782099423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_78
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 629
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842ce7af75145a4d8ee8d0a4d0772a5
+      internalID: -1391067355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_79
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 629
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33560191ccfbfbb4e98ad8e002c3da89
+      internalID: 1490770861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_80
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 628
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0c4ebc85616b43978bae04a0c23ce
+      internalID: -1675738784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_81
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 629
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5678306684f0c498ace1650bc0d520
+      internalID: 115164629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_82
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 650
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ea9b930d65d4647807382a5af4d18a
+      internalID: -1131127006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_83
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 586
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1974930e2921941861988c80ee0caa
+      internalID: 1108032143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_84
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c565731bf46b14692a1cb782a237be
+      internalID: 717075177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_85
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0baaedbc82c56438d039a0d12d67e3
+      internalID: -915375703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_86
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e6d4d7e3056314eb75a326f779683d
+      internalID: 1234527128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_87
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8e7134f6fddc04caf690eb29457b0b
+      internalID: 837572557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_88
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc6cec126a7904e8f0fab1118100ca
+      internalID: -2063830930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_89
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4127362dfe76f94f9cd4cfa8e3d3e2d
+      internalID: 667530745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_90
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc34a6441b5ff504485d8658877d8699
+      internalID: 768983886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_91
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9520b41aa222f4eaba958da628794c
+      internalID: 626416223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_92
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 585
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a9f67820b4f57488f69534fece3268
+      internalID: -1962424149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_93
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 585
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b9633b1ecb114b87e4618efd2a414
+      internalID: -1314153012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_94
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa01daf2f6846741ad4b7e9d018399d
+      internalID: -921289110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_95
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510681ea4042b174b8a4d83f4b7c1976
+      internalID: -951817114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_96
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9129706cdf3cf74fba40aea9fc81abe
+      internalID: -878553350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_97
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d26a6fd60f65c4489e2ec025949778
+      internalID: 1043921001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_98
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 586
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24927f49794b6343a06094a69b21028
+      internalID: -714925908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_99
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 607
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042481b77c43dd442b0ec57ebe6477a8
+      internalID: -183135810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8667fb143fe8592428b7b5f71e1d7403
+      internalID: 379474744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_101
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 503
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13ed99a471092b49aec53a4ee3d67fa
+      internalID: -2024998605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_102
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 529
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85af221a740472f4ba4c966977135682
+      internalID: -174907057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_103
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 459
+        width: 77
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ff34557e9386a4a99cf9720c0b27b2
+      internalID: 1930092825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_104
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 543
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e9aa859c6b69d438f924d24d0bced7
+      internalID: 613770166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_105
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 543
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b325cbc7669097642882146dc1e85c9d
+      internalID: -1646567929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_106
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 543
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8790bd90391ea4cbe890ac8ff7384a
+      internalID: -422159176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_107
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 544
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c753b471a94c9ff4490a9d0392e22026
+      internalID: -952258325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_108
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 544
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1e5f84576e20c4a9de33acfe127190
+      internalID: 736329946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_109
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 544
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a87986ccd0cf143a20f94974659c17
+      internalID: -977796901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_110
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 547
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6120c6420c1900840acf851b047b4a0f
+      internalID: -173200658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_111
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 546
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c828b558eae00b48a81ddcaf98fbf1f
+      internalID: -2117598357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_112
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 547
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d97c3e8c209bf428649b395416a69d
+      internalID: -484044582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_113
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 547
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821a6ba01947a0f4ba4f2c1eb4ffff09
+      internalID: -685725091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_114
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 547
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7e16ae6fd69a54f96b0a7c2057f1ae
+      internalID: 779765088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_115
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 546
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a28d893317b737409c5519922e0b166
+      internalID: -1190926621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_116
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 547
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dfda726d051bd4095c941c298b2bfb
+      internalID: 165772088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_117
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 547
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a473048039476642b78774d9e03a629
+      internalID: -982268659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_118
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 547
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56a3f04ece40c9429f60e7198796f3e
+      internalID: 126781871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_119
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 546
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d581daff3cbe9094787fe475e9d5b57e
+      internalID: 1118942895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_120
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 547
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc9aa0f04ec8c44fb91b7d901d02df2
+      internalID: 1287478091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_121
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 453
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5437b0afa06f4d14aa439117b063a698
+      internalID: -653575446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_122
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 500
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5707542a14d30684f8e5643ca1d93388
+      internalID: -1141904791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_123
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 500
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c9c32ac519f6446a7330ca63020f6e
+      internalID: -1844943634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_124
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 500
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb237e9ed86e6143b6a9ce04d4178f0
+      internalID: -772401651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_125
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 522
+        width: 205
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b5473f8ad99647af39dcb97d7eb18
+      internalID: -1298290274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_126
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 409
+        width: 208
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605c6d08308bad744949036106849bd8
+      internalID: 804442425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_127
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 522
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6fbb28c573c0545839b4935c83ebda
+      internalID: 1569385817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_128
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 421
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5781a8c400e2546a609dda28e42778
+      internalID: -1017648171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_129
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 500
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fea22dc15e1b743a3db6b650ef87e0
+      internalID: -107838920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_130
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 457
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489a51b4a6e897d42bf4eeaf414be101
+      internalID: 1711647344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_131
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 457
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3506bbc983ed2854b9ce4cabc9a26285
+      internalID: -1465941532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_132
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 457
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f56ed3f3a17f84b813288a4654df23
+      internalID: -925573022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_133
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 478
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755595781ac72264ab0c70dcb609e7fc
+      internalID: 1622161267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_134
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 385
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e7742adf794404b811f818f33d4994
+      internalID: 1780334284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_135
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 456
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b343571acc36a418b7754d54f7b05d
+      internalID: -491907012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_136
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 377
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559b12f4857063b428b908eb6f55359a
+      internalID: 1950199549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_137
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 414
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e810d29bd32c9d94094a0953f8cf3acb
+      internalID: -2075494884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_138
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 414
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089eeb4212b9e044e86f92c940fd0e08
+      internalID: -99539389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_139
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 414
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b18c683b6351146839733d53ad5db1
+      internalID: -1067868093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_140
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 434
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fc1050af7f04c43b58b66e8b00da24
+      internalID: -1072374316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_141
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 339
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0adeddd586e0af4595e32eca31a1680
+      internalID: -1681369839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_142
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 412
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab767cdbb78f88419791886785b3c0c
+      internalID: 87757650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_143
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 371
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fa599735d4e1846b12af0f1503b82b
+      internalID: -666306634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_144
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 371
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294a35211d6814048adb000dc976d784
+      internalID: -377936521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_145
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 371
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b00c47a4a19b174880c98825ec9f7e8
+      internalID: 1370309580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_146
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 390
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eebb218506a2b478d9549eca2c5e3c
+      internalID: 1806562731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_147
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 390
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8921bb9a15b843a108665e2efe29e
+      internalID: -475441107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_148
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 390
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3ceeafd763d54ea77f07463f0372e
+      internalID: -144985198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_149
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 301
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ad48637d6e1747b99909955170053
+      internalID: -1890367602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_150
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 310
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac4e3ac1a9d294c834f6143d5c35b2
+      internalID: -683677215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_151
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 328
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83be7f45508a60a439e467c5aeb76405
+      internalID: -1783503416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_152
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 328
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152e67fcfb09cb74d82196c75bcf9825
+      internalID: 1538216702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_153
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 330
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9877e2062ca8564b9373cbf15ab9338
+      internalID: -555280777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_154
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 368
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d388c9690c0e047b6e0d861987dd53
+      internalID: -1700313889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_155
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 368
+        width: 168
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6debaff310d58654989812f6e40688ef
+      internalID: -235792420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_156
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 368
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecdc76863ae5914d879cfba9ff081db
+      internalID: -72484048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_157
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 368
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7760d5fe69d6def44a9652317ff43a12
+      internalID: -1642785330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_158
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 345
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b232b9e80ea125648b8bcda7f2b5aaa7
+      internalID: 1515539280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_159
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 346
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494eb52a17133184bacf006c124b77cb
+      internalID: 344910515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_160
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 346
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b437a6ec3baa5d4b8d2f1cd4a7451c4
+      internalID: -1395639790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_161
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 346
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e815af2b57074f896006ce3b8efff
+      internalID: -764007918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_162
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 346
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442f413d08d7daa4ca294f431168bbfa
+      internalID: -1698646471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_163
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 257
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8b0c72991fe164abc13c70beaaccf5
+      internalID: 2030154541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_164
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 285
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315addf72bbb299458f970868b5f2d4a
+      internalID: -246170996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_165
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 285
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80388e9c5437426479ffb6be294cae0a
+      internalID: 1532233556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_166
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 288
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a02ee599c3c414e8e542dd1fa237d4
+      internalID: -2128378126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_167
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 324
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a4e133ebd69fb4d9177d3fa414af7d
+      internalID: 188235484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_168
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 324
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f09b8e0b9ca9304990a81f9313ec048
+      internalID: 718928024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_169
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 324
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fa59178f828fd4d96131b1514f0297
+      internalID: 1109466697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_170
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 324
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c41c0d41bc218488c52c77ae925821
+      internalID: -389853351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_171
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 324
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b7a7a8df7514c4bb21f314a6ff6d66
+      internalID: 607856786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_172
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 235
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f50d66af1dc49e45a363d7bea8aa780
+      internalID: 1818022908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_173
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 302
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea863bee461916849b7ccef0844d0c5b
+      internalID: 1669582047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_174
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 302
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43ac654c336bbd499e9fc37903bbfd4
+      internalID: 1104519574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_175
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 302
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6956b95efd13792438b36e2526841f9e
+      internalID: -297624684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_176
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 302
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dd14400e9d5fa448d9e8139a184606
+      internalID: 1258925130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_177
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 302
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bfcaf5407ce66478fa430255bcfc16
+      internalID: 1151666904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_178
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 225
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a298385f7a344f9d4df6d72236752
+      internalID: 276142063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_179
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 155
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b87679506685c45988a6f6877fb956
+      internalID: -398379027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_180
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 246
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead43702a3e8954889b0e4cd84bca9b
+      internalID: 1394125479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_181
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 280
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c72beca1e4fc64ea86edd03fa0483a
+      internalID: 1434518936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_182
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 280
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a989752947d12594c98c0759b85a1639
+      internalID: -1185269055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_183
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 280
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7958607e30bbb8b48949973e9248f758
+      internalID: -685591175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_184
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 280
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bcfe80dc4733d43b8ae05d16898b9b
+      internalID: -1473948006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_185
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 280
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26471875342fe34eab9b3f4589d3847
+      internalID: 1557446783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_186
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 258
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2751e18de3083d947b561e4b377687c3
+      internalID: -826153404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_187
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 258
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1da3fe2bcad44419a7dc153dd1766e
+      internalID: 579259057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_188
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 258
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078a5c90438d6b44d9242f967b1940ee
+      internalID: -183928030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_189
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 258
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5b6349521c31741872cb14ed90b6f8
+      internalID: 39521940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_190
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 258
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194442a8748545b4881ccf3df70f2a58
+      internalID: -615830803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_191
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 258
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ef56148296b9341b5d9a6085af896e
+      internalID: -1740274262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_192
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 258
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb99712907f77b44c9b23a1fe97bbb2c
+      internalID: -1516537458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecafaa8377b0d4e438bf96b141af87b5
+      internalID: -600422494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_194
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 175
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5067027cd24ee42a5f15d18343b44f
+      internalID: 313024603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_195
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 203
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0168cf2f7a1945848152d8fce38b1
+      internalID: 166485058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_196
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 236
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d246f822264442ab61ecf312b2e13
+      internalID: 1191692516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_197
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 236
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4543f03892d1cef4e90ae7761b95ef54
+      internalID: 631999386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_198
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 236
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eb4d081ad256441add8f213eefc876
+      internalID: -1806637435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_199
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 236
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fe9f27617420042ac775fae6a7e03f
+      internalID: 1240516537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_200
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 236
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6ebf7f7950c314fac937831cc1cb8f
+      internalID: -196398463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_201
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 236
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f93e3d9803e59c4dbaeb889f2194e13
+      internalID: -1763063683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_202
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 236
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d7f9ea02e0484f9a0598900bb6321
+      internalID: -629256308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_203
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 149
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a095a906fcb4d4cb0eb6e10f7a93b3
+      internalID: 620196525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_204
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 190
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57596df7613dae42adedf13f0085516
+      internalID: -1601585224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_205
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 213
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353ffc95688ec24eac9be6ca1a4f73f
+      internalID: -865202986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_206
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 214
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1e7132a7e71b442bf9685df3bc2c99
+      internalID: 1785320789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_207
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 214
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f75bb7c1eb19ee40b8adb88ccb7c3cc
+      internalID: 655832992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_208
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 214
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18be3f3e869d3354485274b00676ddfb
+      internalID: 791937793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_209
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 214
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3add8e72e27f775479a974b60432e42d
+      internalID: 454890138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_210
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 214
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5fe099b30d66c4f8f72c063071c29e
+      internalID: 1221823354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_211
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 214
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33edd89147883d141bdb8e8a6f7a3df2
+      internalID: -1523609272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_212
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 214
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c621598bb3d3554ea4cf59ddd89faab
+      internalID: 1206300523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_213
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 191
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ed07396d6f4684e83d910208b83340
+      internalID: -1132067419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_214
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 162
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd0e667c26315f45b5c5340e455797a
+      internalID: 1094303263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_215
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 192
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8432727eba4e9654f9db70053263c968
+      internalID: -1526170629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_216
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 192
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c125bf46cece9274eab477834aa2a02e
+      internalID: -1224831502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_217
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 192
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b64e620d64bf3448d67b0924033cb5
+      internalID: -1751448137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_218
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 192
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41bb9fa3d3af3a4093cb5aa29a0b66f
+      internalID: -106243931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_219
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 192
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff846ca5fbc7b844969184f9d4500c1
+      internalID: -1110729465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_220
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 192
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e20e5d74d93e243ba96e878b1dd173
+      internalID: 848370024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_221
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 192
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bba244a5a37fc49bbf05e8bd7b855c
+      internalID: 955916581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_222
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 93
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c070a9aa42a4646bf733fd87bae827
+      internalID: -1019382054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_223
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 145
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e942ffbee6f34b968356e093b24c2
+      internalID: 472914297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_224
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 168
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f6bfe75f1d944193e483ae911d099
+      internalID: 1905987022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_225
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 170
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987048a5b61d47c4c9fb4cbdcd123d0c
+      internalID: -1418463602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_226
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 170
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17163fe0d2b6f154088c948b9c490a12
+      internalID: 412286937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_227
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 170
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7469ec33b9ccb75478917649071fdfab
+      internalID: -1765380949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_228
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 170
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd843be3778c9a4b84ca0c92c372caa
+      internalID: 1010438551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_229
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 170
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6097f9d545c6ffb4aa0339445da27d89
+      internalID: 1851990093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_230
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 170
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a379dcbe3078b4faeed5a0d0b6b403
+      internalID: -78083748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_231
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 170
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6479c1af8ee1e264fbad859ff62819bd
+      internalID: 1937250226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6367c7017d7e4090d6239c0ec184f
+      internalID: 1573471816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_233
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3a3b71be3ca094e8f8dfce466bd734
+      internalID: 1755088555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_234
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 113
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdca1d2f6f6dcb4ab3a8f0f8ad8e521
+      internalID: 25670491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_235
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 113
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8902437aa7d46e409b009efaeb4e3fe
+      internalID: -620187694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_236
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f5ffbef4f61ac4f86e69c47455f5f9
+      internalID: -1475215540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_237
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 148
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb56d0cce219da48ac3373bbe7563af
+      internalID: -490143771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_238
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 148
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79d2bf90218cde4cb6f74300f95d668
+      internalID: -496276688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_239
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 148
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79cbbacdeadc974193dc1206c47b31b
+      internalID: -199338806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_240
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 148
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2183df6c962e886448f83e1df81e3c89
+      internalID: 934745672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_241
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 148
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a057a783ce4f67543a872d6cdf5553a0
+      internalID: 1045530060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_242
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 148
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9b83906432ca44fb3222532f19bef1
+      internalID: 4796955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_243
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 147
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961d16f6977eb3e429eab29c075bbb91
+      internalID: -690014682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_244
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 73
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30575c75e7d444149b640049e260b0f3
+      internalID: -714083038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_245
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 100
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dcf963d6d0e2446bbd90837aa9d7ef
+      internalID: -839491847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_246
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 123
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63441c985e44e2c4eb6cf368ea664b5b
+      internalID: 260678915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_247
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 126
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88519b55e66678545a6230a360d82f85
+      internalID: 1388998377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_248
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 126
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0cdc09be8aae40b9d69aee7d00687
+      internalID: -1090122728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_249
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 126
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93abddd4d5b8186478989a35e0decdeb
+      internalID: -885991331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_250
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 126
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76286673c63cb94da11190afaf3525d
+      internalID: 2059844674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_251
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 126
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad407289afcb5a4fb857f49719f10df
+      internalID: -325626692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_252
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 125
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d8e4694dcce84a86994523536d010
+      internalID: 1665517968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_253
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 125
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87bbb696b1e1ec4b87e9670acdf10e7
+      internalID: -1510203553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_254
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 126
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7d7f96adff3c47a919878cbd594dd
+      internalID: -1501919839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_255
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 101
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb7063253d37614b8f037e3ac74f84b
+      internalID: -1454777694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_256
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 70
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770a63ec8374c8d489a65d585cf67666
+      internalID: -1470128506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_257
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 70
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ef8843ed71b9e48b84d3b4f020d9f4
+      internalID: -1163866318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_258
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 78
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50b0c4e93959cd47966db175ef29d1c
+      internalID: 519449643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_259
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 104
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd322a6499934b14594803db23e40274
+      internalID: -224095997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_260
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 104
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c15f7c55060c4e85b7e95bd90a3eb
+      internalID: -2125927015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_261
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 104
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb7dd2568d4b54a9e54adafec78556
+      internalID: -583016220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_262
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 104
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00458dfcc2ca86941890ddbb3e06c259
+      internalID: 1843889914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_263
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 104
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bddc2a8ded0914ea83fef1dbc9fa78
+      internalID: -521469610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_264
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 104
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71b177971622f41a599f5321bfbad6
+      internalID: 1906552941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_265
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 104
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2609b48bb1730ca4caf0522866fee567
+      internalID: 854754475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_266
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5616c8be75aa149a62985fb64fcaf4
+      internalID: 1444347777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_267
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 55
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a3c4439bd149545a5a7ec05214f95d
+      internalID: 1784851999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_268
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 78
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8359b0456f207d64783ca04638eec048
+      internalID: 547757470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_269
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 82
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3879dd600cbce4e899969f8b9abfbd
+      internalID: 1565824288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_270
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 82
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8bdc898b15e6449baf268132230ca2
+      internalID: 1625121323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_271
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 82
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22119a6cbac6594f9cb7675b6fe3ea8
+      internalID: -17725385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_272
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 82
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ddcd38b318679409844a18c0a11cbe
+      internalID: 1096461509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_273
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 82
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9426841e9a7dd7b4b998ad75a2270fb6
+      internalID: -1463390559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_274
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 82
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4c4da44ec049843afaecfee58dbfe6
+      internalID: -475103686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_275
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1c722ecbed72441982155d8087db60
+      internalID: 381846349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_276
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 28
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2924ccca4b3bab04087b39de1749c401
+      internalID: 1509587839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_277
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 51
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f9e10450817934c9dad6e0c0abe142
+      internalID: 437630261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_278
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 56
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6ea1eb93b21444abbe333d8c29756a
+      internalID: 1822051467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_279
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 27
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27a1d6a84b19904da58d80706aa5f32
+      internalID: -39405213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_280
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 27
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab351f514c4a140acef83dc74f00c6
+      internalID: 1786847393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_281
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 35
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b8696f7a927014583580b616a0e04e
+      internalID: -1012251505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_282
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 60
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0c342a24116054d92c2464a11e4ed1
+      internalID: 800997293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_283
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 60
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683a9cdb0ab341a4999dee208819d1ea
+      internalID: 1121495243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_284
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 15
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb609efff196bb47b26498d5c715b41
+      internalID: 791907374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_285
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 60
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be520125086be1b46a489b992e35c809
+      internalID: -662836445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_286
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 60
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54a5ad989514a64a8ca59e92134340b
+      internalID: 822857065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_287
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 29
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73497f02311cf0f4b98c5d58db951f08
+      internalID: 2106036666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_288
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 10
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93998451b284d3346a0d1e6afa124849
+      internalID: -524656449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_289
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 33
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac8072e3c1e1844aa183cea90f4d0b
+      internalID: 578703880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_290
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 38
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46ee9a583df79849b9f64bb61a43164
+      internalID: 713186716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_291
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 38
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360a5fb09e522441aa5b42d01f54882
+      internalID: 1476271453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_292
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 38
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b0e26618a11794ba70ecbb0c539bcf
+      internalID: -1514032085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_293
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 38
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d89d494c3f47cc469adc1031acf5298
+      internalID: 1887767902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_294
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473adfca7424fd14fa65251846d62316
+      internalID: 199382572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_295
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 7
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068ddb206e77584a8186cfa4977f9e3
+      internalID: -1815822900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_296
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 11
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631eb1520e85aa74198dbccac5930c79
+      internalID: 2084756151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_297
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 5
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8293209209c7a0c48a98f980db8e03af
+      internalID: 15633261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_298
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 5
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9329e30aa4d9f04ba39c3b50ae11a05
+      internalID: -1943736821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_299
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 14
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507491ddab8540f4e9a2d08a4387f911
+      internalID: 2005679385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_300
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 16
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a2fcce79099db40b04c55e6a24be21
+      internalID: 445386308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_301
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 16
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ecb0ea663252c4eae3a1104ed443e0
+      internalID: -1293705253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_302
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 16
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb438a3f7ccacb4e8759f6dc9f82072
+      internalID: -1457304808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_303
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 16
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2bb9a07b30dc141ab388df46bb48a4
+      internalID: -73344486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_304
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 522
+        width: 205
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddb06ace8cd2a14489c784749c10e66
+      internalID: -1294887795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_305
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 500
+        width: 205
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770fa54808ec5d142802ba4908a1f125
+      internalID: -663505111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_306
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 478
+        width: 205
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7375a99d0f0404041a69572ff49b587f
+      internalID: 423028105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_307
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 456
+        width: 205
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4c5ba7dd843c4e94d989edd425d2d
+      internalID: -811953281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_308
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 434
+        width: 205
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b78e5e7fef071499a0c18d0cc71341
+      internalID: 1726350943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_BLOCKS_309
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 412
+        width: 205
+        height: 20
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54ea4a40774fa04688afee5ffe404df
+      internalID: -1701862861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      angry_BLOCKS_0: 107531676
+      angry_BLOCKS_1: 686733214
+      angry_BLOCKS_10: -1840284035
+      angry_BLOCKS_100: 379474744
+      angry_BLOCKS_101: -2024998605
+      angry_BLOCKS_102: -174907057
+      angry_BLOCKS_103: 1930092825
+      angry_BLOCKS_104: 613770166
+      angry_BLOCKS_105: -1646567929
+      angry_BLOCKS_106: -422159176
+      angry_BLOCKS_107: -952258325
+      angry_BLOCKS_108: 736329946
+      angry_BLOCKS_109: -977796901
+      angry_BLOCKS_11: -1633047735
+      angry_BLOCKS_110: -173200658
+      angry_BLOCKS_111: -2117598357
+      angry_BLOCKS_112: -484044582
+      angry_BLOCKS_113: -685725091
+      angry_BLOCKS_114: 779765088
+      angry_BLOCKS_115: -1190926621
+      angry_BLOCKS_116: 165772088
+      angry_BLOCKS_117: -982268659
+      angry_BLOCKS_118: 126781871
+      angry_BLOCKS_119: 1118942895
+      angry_BLOCKS_12: 1214449136
+      angry_BLOCKS_120: 1287478091
+      angry_BLOCKS_121: -653575446
+      angry_BLOCKS_122: -1141904791
+      angry_BLOCKS_123: -1844943634
+      angry_BLOCKS_124: -772401651
+      angry_BLOCKS_125: -1298290274
+      angry_BLOCKS_126: 804442425
+      angry_BLOCKS_127: 1569385817
+      angry_BLOCKS_128: -1017648171
+      angry_BLOCKS_129: -107838920
+      angry_BLOCKS_13: 1214327438
+      angry_BLOCKS_130: 1711647344
+      angry_BLOCKS_131: -1465941532
+      angry_BLOCKS_132: -925573022
+      angry_BLOCKS_133: 1622161267
+      angry_BLOCKS_134: 1780334284
+      angry_BLOCKS_135: -491907012
+      angry_BLOCKS_136: 1950199549
+      angry_BLOCKS_137: -2075494884
+      angry_BLOCKS_138: -99539389
+      angry_BLOCKS_139: -1067868093
+      angry_BLOCKS_14: 1780556776
+      angry_BLOCKS_140: -1072374316
+      angry_BLOCKS_141: -1681369839
+      angry_BLOCKS_142: 87757650
+      angry_BLOCKS_143: -666306634
+      angry_BLOCKS_144: -377936521
+      angry_BLOCKS_145: 1370309580
+      angry_BLOCKS_146: 1806562731
+      angry_BLOCKS_147: -475441107
+      angry_BLOCKS_148: -144985198
+      angry_BLOCKS_149: -1890367602
+      angry_BLOCKS_15: -513501318
+      angry_BLOCKS_150: -683677215
+      angry_BLOCKS_151: -1783503416
+      angry_BLOCKS_152: 1538216702
+      angry_BLOCKS_153: -555280777
+      angry_BLOCKS_154: -1700313889
+      angry_BLOCKS_155: -235792420
+      angry_BLOCKS_156: -72484048
+      angry_BLOCKS_157: -1642785330
+      angry_BLOCKS_158: 1515539280
+      angry_BLOCKS_159: 344910515
+      angry_BLOCKS_16: 2059707415
+      angry_BLOCKS_160: -1395639790
+      angry_BLOCKS_161: -764007918
+      angry_BLOCKS_162: -1698646471
+      angry_BLOCKS_163: 2030154541
+      angry_BLOCKS_164: -246170996
+      angry_BLOCKS_165: 1532233556
+      angry_BLOCKS_166: -2128378126
+      angry_BLOCKS_167: 188235484
+      angry_BLOCKS_168: 718928024
+      angry_BLOCKS_169: 1109466697
+      angry_BLOCKS_17: 336683375
+      angry_BLOCKS_170: -389853351
+      angry_BLOCKS_171: 607856786
+      angry_BLOCKS_172: 1818022908
+      angry_BLOCKS_173: 1669582047
+      angry_BLOCKS_174: 1104519574
+      angry_BLOCKS_175: -297624684
+      angry_BLOCKS_176: 1258925130
+      angry_BLOCKS_177: 1151666904
+      angry_BLOCKS_178: 276142063
+      angry_BLOCKS_179: -398379027
+      angry_BLOCKS_18: 1102112739
+      angry_BLOCKS_180: 1394125479
+      angry_BLOCKS_181: 1434518936
+      angry_BLOCKS_182: -1185269055
+      angry_BLOCKS_183: -685591175
+      angry_BLOCKS_184: -1473948006
+      angry_BLOCKS_185: 1557446783
+      angry_BLOCKS_186: -826153404
+      angry_BLOCKS_187: 579259057
+      angry_BLOCKS_188: -183928030
+      angry_BLOCKS_189: 39521940
+      angry_BLOCKS_19: 426963714
+      angry_BLOCKS_190: -615830803
+      angry_BLOCKS_191: -1740274262
+      angry_BLOCKS_192: -1516537458
+      angry_BLOCKS_193: -600422494
+      angry_BLOCKS_194: 313024603
+      angry_BLOCKS_195: 166485058
+      angry_BLOCKS_196: 1191692516
+      angry_BLOCKS_197: 631999386
+      angry_BLOCKS_198: -1806637435
+      angry_BLOCKS_199: 1240516537
+      angry_BLOCKS_2: 931975427
+      angry_BLOCKS_20: -590454917
+      angry_BLOCKS_200: -196398463
+      angry_BLOCKS_201: -1763063683
+      angry_BLOCKS_202: -629256308
+      angry_BLOCKS_203: 620196525
+      angry_BLOCKS_204: -1601585224
+      angry_BLOCKS_205: -865202986
+      angry_BLOCKS_206: 1785320789
+      angry_BLOCKS_207: 655832992
+      angry_BLOCKS_208: 791937793
+      angry_BLOCKS_209: 454890138
+      angry_BLOCKS_21: -555739911
+      angry_BLOCKS_210: 1221823354
+      angry_BLOCKS_211: -1523609272
+      angry_BLOCKS_212: 1206300523
+      angry_BLOCKS_213: -1132067419
+      angry_BLOCKS_214: 1094303263
+      angry_BLOCKS_215: -1526170629
+      angry_BLOCKS_216: -1224831502
+      angry_BLOCKS_217: -1751448137
+      angry_BLOCKS_218: -106243931
+      angry_BLOCKS_219: -1110729465
+      angry_BLOCKS_22: -296622395
+      angry_BLOCKS_220: 848370024
+      angry_BLOCKS_221: 955916581
+      angry_BLOCKS_222: -1019382054
+      angry_BLOCKS_223: 472914297
+      angry_BLOCKS_224: 1905987022
+      angry_BLOCKS_225: -1418463602
+      angry_BLOCKS_226: 412286937
+      angry_BLOCKS_227: -1765380949
+      angry_BLOCKS_228: 1010438551
+      angry_BLOCKS_229: 1851990093
+      angry_BLOCKS_23: 1866463779
+      angry_BLOCKS_230: -78083748
+      angry_BLOCKS_231: 1937250226
+      angry_BLOCKS_232: 1573471816
+      angry_BLOCKS_233: 1755088555
+      angry_BLOCKS_234: 25670491
+      angry_BLOCKS_235: -620187694
+      angry_BLOCKS_236: -1475215540
+      angry_BLOCKS_237: -490143771
+      angry_BLOCKS_238: -496276688
+      angry_BLOCKS_239: -199338806
+      angry_BLOCKS_24: -2034292381
+      angry_BLOCKS_240: 934745672
+      angry_BLOCKS_241: 1045530060
+      angry_BLOCKS_242: 4796955
+      angry_BLOCKS_243: -690014682
+      angry_BLOCKS_244: -714083038
+      angry_BLOCKS_245: -839491847
+      angry_BLOCKS_246: 260678915
+      angry_BLOCKS_247: 1388998377
+      angry_BLOCKS_248: -1090122728
+      angry_BLOCKS_249: -885991331
+      angry_BLOCKS_25: 1351780745
+      angry_BLOCKS_250: 2059844674
+      angry_BLOCKS_251: -325626692
+      angry_BLOCKS_252: 1665517968
+      angry_BLOCKS_253: -1510203553
+      angry_BLOCKS_254: -1501919839
+      angry_BLOCKS_255: -1454777694
+      angry_BLOCKS_256: -1470128506
+      angry_BLOCKS_257: -1163866318
+      angry_BLOCKS_258: 519449643
+      angry_BLOCKS_259: -224095997
+      angry_BLOCKS_26: -766980540
+      angry_BLOCKS_260: -2125927015
+      angry_BLOCKS_261: -583016220
+      angry_BLOCKS_262: 1843889914
+      angry_BLOCKS_263: -521469610
+      angry_BLOCKS_264: 1906552941
+      angry_BLOCKS_265: 854754475
+      angry_BLOCKS_266: 1444347777
+      angry_BLOCKS_267: 1784851999
+      angry_BLOCKS_268: 547757470
+      angry_BLOCKS_269: 1565824288
+      angry_BLOCKS_27: -1926743210
+      angry_BLOCKS_270: 1625121323
+      angry_BLOCKS_271: -17725385
+      angry_BLOCKS_272: 1096461509
+      angry_BLOCKS_273: -1463390559
+      angry_BLOCKS_274: -475103686
+      angry_BLOCKS_275: 381846349
+      angry_BLOCKS_276: 1509587839
+      angry_BLOCKS_277: 437630261
+      angry_BLOCKS_278: 1822051467
+      angry_BLOCKS_279: -39405213
+      angry_BLOCKS_28: -1393240396
+      angry_BLOCKS_280: 1786847393
+      angry_BLOCKS_281: -1012251505
+      angry_BLOCKS_282: 800997293
+      angry_BLOCKS_283: 1121495243
+      angry_BLOCKS_284: 791907374
+      angry_BLOCKS_285: -662836445
+      angry_BLOCKS_286: 822857065
+      angry_BLOCKS_287: 2106036666
+      angry_BLOCKS_288: -524656449
+      angry_BLOCKS_289: 578703880
+      angry_BLOCKS_29: -318711999
+      angry_BLOCKS_290: 713186716
+      angry_BLOCKS_291: 1476271453
+      angry_BLOCKS_292: -1514032085
+      angry_BLOCKS_293: 1887767902
+      angry_BLOCKS_294: 199382572
+      angry_BLOCKS_295: -1815822900
+      angry_BLOCKS_296: 2084756151
+      angry_BLOCKS_297: 15633261
+      angry_BLOCKS_298: -1943736821
+      angry_BLOCKS_299: 2005679385
+      angry_BLOCKS_3: -30867646
+      angry_BLOCKS_30: 411534692
+      angry_BLOCKS_300: 445386308
+      angry_BLOCKS_301: -1293705253
+      angry_BLOCKS_302: -1457304808
+      angry_BLOCKS_303: -73344486
+      angry_BLOCKS_304: -1294887795
+      angry_BLOCKS_305: -663505111
+      angry_BLOCKS_306: 423028105
+      angry_BLOCKS_307: -811953281
+      angry_BLOCKS_308: 1726350943
+      angry_BLOCKS_309: -1701862861
+      angry_BLOCKS_31: -2143631153
+      angry_BLOCKS_32: -466706216
+      angry_BLOCKS_33: -1685106341
+      angry_BLOCKS_34: -507798813
+      angry_BLOCKS_35: 1584230890
+      angry_BLOCKS_36: -295439699
+      angry_BLOCKS_37: -356981436
+      angry_BLOCKS_38: -1782861128
+      angry_BLOCKS_39: 2107025460
+      angry_BLOCKS_4: 1790940660
+      angry_BLOCKS_40: 1252556686
+      angry_BLOCKS_41: -691764730
+      angry_BLOCKS_42: 1735546639
+      angry_BLOCKS_43: 1132683168
+      angry_BLOCKS_44: 788651256
+      angry_BLOCKS_45: 1422431184
+      angry_BLOCKS_46: -900600586
+      angry_BLOCKS_47: -1225572992
+      angry_BLOCKS_48: -1149524622
+      angry_BLOCKS_49: -1651842373
+      angry_BLOCKS_5: -278156374
+      angry_BLOCKS_50: 1798426526
+      angry_BLOCKS_51: 149010233
+      angry_BLOCKS_52: -1854007126
+      angry_BLOCKS_53: -569723557
+      angry_BLOCKS_54: -1700177646
+      angry_BLOCKS_55: 1601574806
+      angry_BLOCKS_56: -933192440
+      angry_BLOCKS_57: -190823038
+      angry_BLOCKS_58: -1658331957
+      angry_BLOCKS_59: 108459937
+      angry_BLOCKS_6: 546950350
+      angry_BLOCKS_60: 1471103606
+      angry_BLOCKS_61: 1962645269
+      angry_BLOCKS_62: 1947224244
+      angry_BLOCKS_63: -555865161
+      angry_BLOCKS_64: 989165577
+      angry_BLOCKS_65: 1971232996
+      angry_BLOCKS_66: -580170163
+      angry_BLOCKS_67: 573777259
+      angry_BLOCKS_68: -288367817
+      angry_BLOCKS_69: 944886036
+      angry_BLOCKS_7: 1393043305
+      angry_BLOCKS_70: -423414428
+      angry_BLOCKS_71: 1025947201
+      angry_BLOCKS_72: 367168072
+      angry_BLOCKS_73: 991576072
+      angry_BLOCKS_74: 93828326
+      angry_BLOCKS_75: -1433958611
+      angry_BLOCKS_76: 1978280530
+      angry_BLOCKS_77: 782099423
+      angry_BLOCKS_78: -1391067355
+      angry_BLOCKS_79: 1490770861
+      angry_BLOCKS_8: 652078198
+      angry_BLOCKS_80: -1675738784
+      angry_BLOCKS_81: 115164629
+      angry_BLOCKS_82: -1131127006
+      angry_BLOCKS_83: 1108032143
+      angry_BLOCKS_84: 717075177
+      angry_BLOCKS_85: -915375703
+      angry_BLOCKS_86: 1234527128
+      angry_BLOCKS_87: 837572557
+      angry_BLOCKS_88: -2063830930
+      angry_BLOCKS_89: 667530745
+      angry_BLOCKS_9: 1735840394
+      angry_BLOCKS_90: 768983886
+      angry_BLOCKS_91: 626416223
+      angry_BLOCKS_92: -1962424149
+      angry_BLOCKS_93: -1314153012
+      angry_BLOCKS_94: -921289110
+      angry_BLOCKS_95: -951817114
+      angry_BLOCKS_96: -878553350
+      angry_BLOCKS_97: 1043921001
+      angry_BLOCKS_98: -714925908
+      angry_BLOCKS_99: -183135810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
