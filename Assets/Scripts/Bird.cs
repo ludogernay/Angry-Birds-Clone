@@ -4,7 +4,7 @@ using UnityEngine;
 public class Bird : MonoBehaviour
 {
     [SerializeField] float _launchforce = 500;
-    [SerializeField] float _maxDragDistance = 5;
+    [SerializeField] float _maxDragDistance = 0.1f;
     [SerializeField] ParticleSystem _particleSystem;
 
     Vector2 _startPosition;
@@ -50,23 +50,25 @@ public class Bird : MonoBehaviour
     }
     void OnCollisionEnter2D(Collision2D other) {
         if (!_hasDied) {
-           // _animator.SetBool("Dead",true);
+            _animator.SetBool("exploding",true);
             _hasDied = true;
             _rigidbody2D.freezeRotation = false;
             StartCoroutine(ResetAfterDelay());
         }
     }
     IEnumerator ResetAfterDelay() {
-        yield return new WaitForSeconds(3);
-        _particleSystem.Play();
-        _spriteRenderer.enabled = false;
         yield return new WaitForSeconds(2);
         _animator.SetBool("Dead",true);
+        //_particleSystem.Play();
+       // _spriteRenderer.enabled = false;
+        yield return new WaitForSeconds(0.5f);
         _rigidbody2D.freezeRotation = true;
         _rigidbody2D.velocity = Vector2.zero;
         _rigidbody2D.position = _startPosition;
         _rigidbody2D.isKinematic = true;
         _rigidbody2D.rotation = 0;
+        _animator.SetBool("Dead",false);
+        _animator.SetBool("exploding",false);
         yield return new WaitForSeconds(1);
         _spriteRenderer.enabled = true;
         _hasDied = false;
