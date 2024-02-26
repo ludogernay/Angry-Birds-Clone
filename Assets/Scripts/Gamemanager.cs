@@ -1,12 +1,20 @@
-using System.Collections;
-using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Gamemanager : MonoBehaviour
 {
-    private int _score;
     private int _alivePiggies;
-    [SerializeField] private TextMeshProUGUI _scoreText;
-
+    void Start()
+    {
+        _alivePiggies = FindObjectsOfType<Piggies>().Length;
+    }
+    public void IsPiggieDied()
+    {
+        _alivePiggies--;
+        Debug.Log(_alivePiggies);
+        if (_alivePiggies <= 0)
+        {
+            SceneManager.LoadScene((SceneManager.GetActiveScene().buildIndex + 1) % SceneManager.sceneCountInBuildSettings);
+        }
+    }
 }

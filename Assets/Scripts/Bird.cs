@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Bird : MonoBehaviour
 {
-    [SerializeField] float _launchforce = 500;
+    [SerializeField] float _launchforce;
     [SerializeField] float _maxDragDistance = 0.1f;
     [SerializeField] ParticleSystem _particleSystem;
 
@@ -42,6 +42,10 @@ public class Bird : MonoBehaviour
             Vector2 direction = desiredPosition - _startPosition;
             direction.Normalize();
             desiredPosition = _startPosition + (direction * _maxDragDistance);
+            _launchforce = 500;
+        }
+        else {
+            _launchforce = distance * 500;
         }
         if (desiredPosition.x > _startPosition.x) {
             desiredPosition.x = _startPosition.x;
