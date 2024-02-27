@@ -11,10 +11,13 @@ public class Gamemanager : MonoBehaviour
     public void IsPiggieDied()
     {
         _alivePiggies--;
-        Debug.Log(_alivePiggies);
         if (_alivePiggies <= 0)
         {
-            SceneManager.LoadScene((SceneManager.GetActiveScene().buildIndex + 1) % SceneManager.sceneCountInBuildSettings);
+            NextScene();
         }
+    }
+    public void NextScene()
+    {
+        SceneManager.LoadScene((SceneManager.GetActiveScene().buildIndex + 1) % SceneManager.sceneCountInBuildSettings);
     }
 }

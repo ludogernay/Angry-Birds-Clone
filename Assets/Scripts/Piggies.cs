@@ -27,7 +27,6 @@ public class Piggies : MonoBehaviour
         // Convertir les coordonnées du point de contact du monde vers les coordonnées locales de l'objet
         Vector3 pointOfContactLocal = transform.InverseTransformPoint(contact.point);
 
-        Debug.Log("Point de contact local : " + pointOfContactLocal.y);
         if (other.relativeVelocity.magnitude > 4 || other.gameObject == bird || (pointOfContactLocal.y > 0.3f && other.relativeVelocity.magnitude > 1))
         {
             _spriteRenderer.sprite = deadSprite;
